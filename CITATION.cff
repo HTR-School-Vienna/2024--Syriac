@@ -1,0 +1,54 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 2024--Syriac
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - orcid: 'https://orcid.org/0000-0003-2943-6556'
+    given-names: Ephrem
+    family-names: Aboud Ishac
+  - given-names: Christine
+    family-names: Roughan
+    orcid: 'https://orcid.org/0009-0004-5999-8749'
+  - given-names: Ammar
+    family-names: Awad
+  - given-names: Carlo Biuzzi
+    orcid: 'https://orcid.org/0000-0002-6108-3650'
+    family-names: Emilio
+  - given-names: Saranya
+    family-names: Chandran
+  - given-names: Jennifer
+    family-names: Griggs
+    orcid: 'https://orcid.org/0000-0002-7857-806X'
+  - given-names: Polina
+    family-names: Ivanova
+    orcid: 'https://orcid.org/0009-0002-6853-2129'
+  - given-names: Branko
+    family-names: Malešević
+    orcid: 'https://orcid.org/0009-0008-2419-6323'
+  - given-names: Stefan
+    family-names: Marić
+    orcid: 'https://orcid.org/0009-0008-5129-1932'
+  - given-names: Francesca
+    family-names: Nateri
+  - given-names: Ivan
+    family-names: Petrov
+    orcid: 'https://orcid.org/0000-0003-4386-0097'
+  - given-names: Cristina
+    family-names: Tava
+  - given-names: Maria S.
+    family-names: Thomas
+    orcid: 'https://orcid.org/0009-0008-1416-3499'
+repository-code: 'https://github.com/HTR-School-Vienna/2024--Syriac'
+abstract: 140 folios of ground truth for Syriac HTR.
+keywords:
+  - ÖNB Cod. Syr. 1
+  - HTR
+  - Syriac
+  - Serto
+  - 16th century
+license: CC-BY-SA-4.0

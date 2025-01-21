@@ -47,9 +47,12 @@ Transkribus's `unclear` tag was used when readings were uncertain or the text wa
 
 ### Data organisation
 
-- `ÖNB_Syr_1`
-  - `page`: the XML ground truth
-  - `images`: the corresponding image files
+- `CITATION.cff`
+- `LICENSE.md`
+- `README.md`
+- `ÖNB_Syr_1/`
+  - `page/`: the XML ground truth
+  - `images/`: the corresponding image files
 
 ## How to cite
 
