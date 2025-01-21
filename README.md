@@ -5,7 +5,7 @@ Ground truth of 140 folios of ÖNB Cod. Syr. 1. This ground truth was produced b
 **ATTENTION**: To clone this repo you need to have [Git LFS](https://git-lfs.com/) installed and then clone the repository like this:
 
 ```
-git lfs clone git@github.com:htr-school-vienna/[your_repository_name].git https://github.com/HTR-School-Vienna/2023--carolingian-latin
+git lfs clone git@github.com:htr-school-vienna/2024--Syriac.git
 ```
 
 <!-- Continue editing here -->
