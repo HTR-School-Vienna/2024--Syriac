@@ -51,7 +51,7 @@ Transkribus's `unclear` tag was used when readings were uncertain or the text wa
 - `LICENSE.md`
 - `README.md`
 - `ÖNB_Syr_1/`
-  - `page/`: the XML ground truth
+  - `page/`: the ground truth in PAGE XML format
   - `images/`: the corresponding image files
 
 ## How to cite
