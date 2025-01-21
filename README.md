@@ -60,7 +60,7 @@ Transkribus's `unclear` tag was used when readings were uncertain or the text wa
 This dataset was created by: Ephrem Aboud Ishac, Christine Roughan, Ammar Awad, Carlo Biuzzi Emilio, Saranya Chandran, Jennifer Griggs, Polina Ivanova, Branko Malešević, Stefan Marić, Francesca Nateri, Ivan Petrov, Cristina Tava, and Maria S. Thomas. If you use any item from this corpus as ground truth, cite the dataset using the following information:
 
 ```
-<!-- Copy citation BibTeX from Zenodo 10.5281/zenodo.10589561 -->
+Aboud Ishac, E., Roughan, C., Awad, A., Emilio, C. B., Chandran, S., Griggs, J., Ivanova, P., Malešević, B., Marić, S., Nateri, F., Petrov, I., Tava, C., & Thomas, M. S. (2025). HTR Winter School 2024 - Syriac, ÖNB Cod. Syr. 1 (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14714089
 ```
 
 ## Copyright and licence
