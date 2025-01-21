@@ -43,7 +43,11 @@ authors:
   - given-names: Maria S.
     family-names: Thomas
     orcid: 'https://orcid.org/0009-0008-1416-3499'
-repository-code: 'https://github.com/HTR-School-Vienna/2024--Syriac'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14714089
+repository-code: 'https://doi.org/10.5281/zenodo.14714089'
+repository: 'https://github.com/HTR-School-Vienna/2024--Syriac'
 abstract: 140 folios of ground truth for Syriac HTR.
 keywords:
   - ÖNB Cod. Syr. 1
